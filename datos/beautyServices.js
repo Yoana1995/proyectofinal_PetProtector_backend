@@ -1,0 +1,148 @@
+export const servicios = [
+    { 
+        imagen:"https://firebasestorage.googleapis.com/v0/b/petprotector-8cd77.appspot.com/o/pets%2Fhuella.jpg?alt=media&token=6445c0c4-cabc-4587-b7b1-80c687f0707f",
+        nombre: 'Laika', 
+        sexo: 'Hembra', 
+        esterilizado: 'No', 
+        tamaño: 'pequeño',
+        fechanacimiento: '2007-02-27', 
+        chip: 'No', 
+        especie: 'perro',
+        adopcion: 'No',
+        acogida: 'Si',
+        descripcion: 'Se trata de un perro de tamaño mediano a grande, de raza mixta. Su pelaje es corto y de color negro, con manchas blancas en el pecho y en las patas traseras. Tiene una mirada dulce y expresiva, con unos ojos grandes y color caf claro. Este perro tiene aproximadamente tres años de edad y goza de muy buena salud. Es muy activo y juguetón, por lo que necesita un dueño que pueda brindarle la atención y el ejercicio suficiente para satisfacer sus necesidades de activ ad física. Es un perro extremadamente cariñoso y fiel, que busca constantemente el afecto y la compañía de las personas. Es muy sociable y se lleva bien con otros perros, así como con personas de todas las edades, incluyendo niños. Además, está acostumbrado a vivir en un hogar, por lo que sajustará rápidamente a su nueva familia.Este perro ha sido rescatado de la calle y está en busca de un hogar amoroso donde pueda recibir el cuidado y la atención que merece. Está esterilizado, desparasitado y cuenta con todas sus vacunas al día Si estás interesado en adoptar a este perro tan especial, por favor contacta al refugio de animales para obtener más información y realizar el proceso de adopción. Tu hogar será lleno de alegría y amor con la compañía de este increíble perro en adopción.'    
+    },{ 
+        imagen:"https://firebasestorage.googleapis.com/v0/b/petprotector-8cd77.appspot.com/o/pets%2Fhuella.jpg?alt=media&token=6445c0c4-cabc-4587-b7b1-80c687f0707f",
+        nombre: 'Garfield', 
+        sexo: 'Macho', 
+        esterilizado: 'No', 
+        tamaño: 'pequeño',
+        fechanacimiento: '2020-05-01', 
+        chip: 'No', 
+        especie: 'gato',
+        adopcion: 'No',
+        acogida: 'No',
+        descripcion: 'Se trata de un perro de tamaño mediano a grande, de raza mixta. Su pelaje es corto y de color negro, con manchas blancas en el pecho y en las patas traseras. Tiene una mirada dulce y expresiva, con unos ojos grandes y color café claro. Este perro tiene aproximadamente tres años de edad y goza de muy buena salud. Es muy activo y juguetón, por lo que necesita un dueño que pueda brindarle la atención y el ejercicio suficiente para satisfacer sus necesidades de actividad física. Es un perro extremadamente cariñoso y fiel, que busca constantemente el afecto y la compañía de las personas. Es muy sociable y se lleva bien con otros perros, así como con personas de todas las edades, incluyendo niños. Además, está acostumbrado a vivir en un hogar, por lo que se ajustará rápidamente a su nueva familia.Este perro ha sido rescatado de la calle y está en busca de un hogar amoroso donde pueda recibir el cuidado y la atención que merece. Está esterilizado, desparasitado y cuenta con todas sus vacunas al día. Si estás interesado en adoptar a este perro tan especial, por favor contacta al refugio de animales para obtener más información y realizar el proceso de adopción. Tu hogar será lleno de alegría y amor con la compañía de este increíble perro en adopción.'
+    },{ 
+        imagen:"https://firebasestorage.googleapis.com/v0/b/petprotector-8cd77.appspot.com/o/pets%2Fhuella.jpg?alt=media&token=6445c0c4-cabc-4587-b7b1-80c687f0707f",
+        nombre: 'Jackie', 
+        sexo: 'Macho', 
+        esterilizado: 'No', 
+        tamaño: 'mediano',
+        fechanacimiento: '2016-04-27', 
+        chip: 'No', 
+        especie: 'perro',
+        adopcion: 'No',
+        acogida: 'Si',
+        descripcion: 'Se trata de un perro de tamaño mediano a grande, de raza mixta. Su pelaje es corto y de color negro, con manchas blancas en el pecho y en las patas traseras. Tiene una mirada dulce y expresiva, con unos ojos grandes y color caf claro. Este perro tiene aproximadamente tres años de edad y goza de muy buena salud. Es muy activo y juguetón, por lo que necesita un dueño que pueda brindarle la atención y el ejercicio suficiente para satisfacer sus necesidades de activ ad física. Es un perro extremadamente cariñoso y fiel, que busca constantemente el afecto y la compañía de las personas. Es muy sociable y se lleva bien con otros perros, así como con personas de todas las edades, incluyendo niños. Además, está acostumbrado a vivir en un hogar, por lo que sajustará rápidamente a su nueva familia. Este perro ha sido rescatado de la calle y está en busca de un hogar amoroso donde pueda recibir el cuidado y la atención que merece. Está esterilizado, desparasitado y cuenta con todas sus vacunas al día. Si estás interesado en adoptar a este perro tan especial, por favor contacta al refugio de animales para obtener más información y realizar el proceso de adopción. Tu hogar será lleno de alegría y amor con la compañía de este increíble perro en adopción.'    
+    },{ 
+        imagen:"https://firebasestorage.googleapis.com/v0/b/petprotector-8cd77.appspot.com/o/pets%2Fhuella.jpg?alt=media&token=6445c0c4-cabc-4587-b7b1-80c687f0707f",
+        nombre: 'Xico', 
+        sexo: 'Hembra', 
+        esterilizado: 'No', 
+        tamaño: 'pequeño',
+        fechanacimiento: '2007-02-27', 
+        chip: 'No', 
+        especie: 'perro',
+        adopcion: 'No',
+        acogida: 'Si',
+        descripcion: 'Se trata de un perro'
+    },{ 
+        imagen:"https://firebasestorage.googleapis.com/v0/b/petprotector-8cd77.appspot.com/o/pets%2Fhuella.jpg?alt=media&token=6445c0c4-cabc-4587-b7b1-80c687f0707f",
+        nombre: 'Junior', 
+        sexo: 'Macho', 
+        esterilizado: 'No', 
+        tamaño: 'pequeño',
+        fechanacimiento: '2020-05-01', 
+        chip: 'No', 
+        especie: 'gato',
+        adopcion: 'Si',
+        acogida: 'No',
+        descripcion: 'Se trata de un perro de tamaño mediano a grande, de raza mixta. Su pelaje es corto y de color negro, con manchas blancas en el pecho y en las patas traseras. Tiene una mirada dulce y expresiva, con unos ojos grandes y color café claro. Este perro tiene aproximadamente tres años de edad y goza de muy buena salud. Es muy activo y juguetón, por lo que necesita un dueño que pueda brindarle la atención y el ejercicio suficiente para satisfacer sus necesidades de actividad física. Es un perro extremadamente cariñoso y fiel, que busca constantemente el afecto y la compañía de las personas. Es muy sociable y se lleva bien con otros perros, así como con personas de todas las edades, incluyendo niños. Además, está acostumbrado a vivir en un hogar, por lo que se ajustará rápidamente a su nueva familia.Este perro ha sido rescatado de la calle y está en busca de un hogar amoroso donde pueda recibir el cuidado y la atención que merece. Está esterilizado, desparasitado y cuenta con todas sus vacunas al día. Si estás interesado en adoptar a este perro tan especial, por favor contacta al refugio de animales para obtener más información y realizar el proceso de adopción. Tu hogar será lleno de alegría y amor con la compañía de este increíble perro en adopción.'
+
+    },{ 
+        imagen:"https://firebasestorage.googleapis.com/v0/b/petprotector-8cd77.appspot.com/o/pets%2Fhuella.jpg?alt=media&token=6445c0c4-cabc-4587-b7b1-80c687f0707f",
+        nombre: 'Oreo', 
+        sexo: 'Macho', 
+        esterilizado: 'No', 
+        tamaño: 'mediano',
+        fechanacimiento: '2016-04-27', 
+        chip: 'No', 
+        especie: 'perro',
+        adopcion: 'No',
+        acogida: 'Si',
+        descripcion: 'Se trata de un perro'
+    },{ 
+        imagen:"https://firebasestorage.googleapis.com/v0/b/petprotector-8cd77.appspot.com/o/pets%2Fhuella.jpg?alt=media&token=6445c0c4-cabc-4587-b7b1-80c687f0707f",
+        nombre: 'Blanca', 
+        sexo: 'Hembra', 
+        esterilizado: 'No', 
+        tamaño: 'pequeño',
+        fechanacimiento: '2007-02-27', 
+        chip: 'No', 
+        especie: 'perro',
+        adopcion: 'No',
+        acogida: 'No',
+        descripcion: 'Se trata de un perro de tamaño mediano a grande, de raza mixta. Su pelaje es corto y de color negro, con manchas blancas en el pecho y en las patas traseras. Tiene una mirada dulce y expresiva, con unos ojos grandes y color café claro. Este perro tiene aproximadamente tres años de edad y goza de muy buena salud. Es muy activo y juguetón, por lo que necesita un dueño que pueda brindarle la atención y el ejercicio suficiente para satisfacer sus necesidades de actividad física. Es un perro extremadamente cariñoso y fiel, que busca constantemente el afecto y la compañía de las personas. Es muy sociable y se lleva bien con otros perros, así como con personas de todas las edades, incluyendo niños. Además, está acostumbrado a vivir en un hogar, por lo que se ajustará rápidamente a su nueva familia.Este perro ha sido rescatado de la calle y está en busca de un hogar amoroso donde pueda recibir el cuidado y la atención que merece. Está esterilizado, desparasitado y cuenta con todas sus vacunas al día. Si estás interesado en adoptar a este perro tan especial, por favor contacta al refugio de animales para obtener más información y realizar el proceso de adopción. Tu hogar será lleno de alegría y amor con la compañía de este increíble perro en adopción.'
+    },{ 
+        imagen:"https://firebasestorage.googleapis.com/v0/b/petprotector-8cd77.appspot.com/o/pets%2Fhuella.jpg?alt=media&token=6445c0c4-cabc-4587-b7b1-80c687f0707f",
+        nombre: 'Scooby', 
+        sexo: 'Macho', 
+        esterilizado: 'No', 
+        tamaño: 'pequeño',
+        fechanacimiento: '2020-05-01', 
+        chip: 'No', 
+        especie: 'gato',
+        adopcion: 'No',
+        acogida: 'Si',
+        descripcion: 'Se trata de un perro'
+    },{ 
+        imagen:"https://firebasestorage.googleapis.com/v0/b/petprotector-8cd77.appspot.com/o/pets%2Fhuella.jpg?alt=media&token=6445c0c4-cabc-4587-b7b1-80c687f0707f",
+        nombre: 'Mickey', 
+        sexo: 'Macho', 
+        esterilizado: 'No', 
+        tamaño: 'mediano',
+        fechanacimiento: '2016-04-27', 
+        chip: 'No', 
+        especie: 'perro',
+        adopcion: 'Si',
+        acogida: 'Si',
+        descripcion: 'Se trata de un perro de tamaño mediano a grande, de raza mixta. Su pelaje es corto y de color negro, con manchas blancas en el pecho y en las patas traseras. Tiene una mirada dulce y expresiva, con unos ojos grandes y color caf claro.Este perro tiene aproximadamente tres años de edad y goza de muy buena salud. Es muy activo y juguetón, por lo que necesita un dueño que pueda brindarle la atención y el ejercicio suficiente para satisfacer sus necesidades de activ ad física.Es un perro extremadamente cariñoso y fiel, que busca constantemente el afecto y la compañía de las personas. Es muy sociable y se lleva bien con otros perros, así como con personas de todas las edades, incluyendo niños. Además, está acostumbrado a vivir en un hogar, por lo que sajustará rápidamente a su nueva familia.Este perro ha sido rescatado de la calle y está en busca de un hogar amoroso donde pueda recibir el cuidado y la atención que merece. Está esterilizado, desparasitado y cuenta con todas sus vacunas al día Si estás interesado en adoptar a este perro tan especial, por favor contacta al refugio de animales para obtener más información y realizar el proceso de adopción. Tu hogar será lleno de alegría y amor con la compañía de este increíble perro en adopción.'    
+    },{ 
+        imagen:"https://firebasestorage.googleapis.com/v0/b/petprotector-8cd77.appspot.com/o/pets%2Fhuella.jpg?alt=media&token=6445c0c4-cabc-4587-b7b1-80c687f0707f",
+        nombre: 'Shiki', 
+        sexo: 'Hembra', 
+        esterilizado: 'No', 
+        tamaño: 'pequeño',
+        fechanacimiento: '2007-02-27', 
+        chip: 'No', 
+        especie: 'perro',
+        adopcion: 'No',
+        acogida: 'Si',
+        descripcion: 'Se trata de un perro'
+    },{ 
+        imagen:"https://firebasestorage.googleapis.com/v0/b/petprotector-8cd77.appspot.com/o/pets%2Fhuella.jpg?alt=media&token=6445c0c4-cabc-4587-b7b1-80c687f0707f",
+        nombre: 'Juanito', 
+        sexo: 'Macho', 
+        esterilizado: 'No', 
+        tamaño: 'pequeño',
+        fechanacimiento: '2020-05-01', 
+        chip: 'No', 
+        especie: 'gato',
+        adopcion: 'Si',
+        acogida: 'No',
+        descripcion: 'Se trata de un perro de tamaño mediano a grande, de raza mixta. Su pelaje es corto y de color negro, con manchas blancas en el pecho y en las patas traseras. Tiene una mirada dulce y expresiva, con unos ojos grandes y color café claro. Este perro tiene aproximadamente tres años de edad y goza de muy buena salud. Es muy activo y juguetón, por lo que necesita un dueño que pueda brindarle la atención y el ejercicio suficiente para satisfacer sus necesidades de actividad física. Es un perro extremadamente cariñoso y fiel, que busca constantemente el afecto y la compañía de las personas. Es muy sociable y se lleva bien con otros perros, así como con personas de todas las edades, incluyendo niños. Además, está acostumbrado a vivir en un hogar, por lo que se ajustará rápidamente a su nueva familia.Este perro ha sido rescatado de la calle y está en busca de un hogar amoroso donde pueda recibir el cuidado y la atención que merece. Está esterilizado, desparasitado y cuenta con todas sus vacunas al día. Si estás interesado en adoptar a este perro tan especial, por favor contacta al refugio de animales para obtener más información y realizar el proceso de adopción. Tu hogar será lleno de alegría y amor con la compañía de este increíble perro en adopción.'
+    },{ 
+        imagen:"https://firebasestorage.googleapis.com/v0/b/petprotector-8cd77.appspot.com/o/pets%2Fhuella.jpg?alt=media&token=6445c0c4-cabc-4587-b7b1-80c687f0707f",
+        nombre: 'Stuart', 
+        sexo: 'Macho', 
+        esterilizado: 'No', 
+        tamaño: 'mediano',
+        fechanacimiento: '2016-04-27', 
+        chip: 'No', 
+        especie: 'perro',
+        adopcion: 'Si',
+        acogida: 'No',
+        descripcion: 'Se trata de un perro de tamaño mediano a grande, de raza mixta. Su pelaje es corto y de color negro, con manchas blancas en el pecho y en las patas traseras. Tiene una mirada dulce y expresiva, con unos ojos grandes y color café claro. Este perro tiene aproximadamente tres años de edad y goza de muy buena salud. Es muy activo y juguetón, por lo que necesita un dueño que pueda brindarle la atención y el ejercicio suficiente para satisfacer sus necesidades de actividad física. Es un perro extremadamente cariñoso y fiel, que busca constantemente el afecto y la compañía de las personas. Es muy sociable y se lleva bien con otros perros, así como con personas de todas las edades, incluyendo niños. Además, está acostumbrado a vivir en un hogar, por lo que se ajustará rápidamente a su nueva familia.Este perro ha sido rescatado de la calle y está en busca de un hogar amoroso donde pueda recibir el cuidado y la atención que merece. Está esterilizado, desparasitado y cuenta con todas sus vacunas al día. Si estás interesado en adoptar a este perro tan especial, por favor contacta al refugio de animales para obtener más información y realizar el proceso de adopción. Tu hogar será lleno de alegría y amor con la compañía de este increíble perro en adopción.'
+    }
+  ];
